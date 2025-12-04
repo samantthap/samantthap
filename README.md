@@ -1,12 +1,22 @@
 ## Bem-vindo(a) ao perfil.😁
 
-  Me chamo Samantha,
-Estudante de Analise e desenvolvimento de sistemas no Centro Universitário Italo Brasileiro. Apaixonada por programação e tecnologias no geral, tive o meu primeiro contato com esse    mundo incrivel aos 14 anos onde pude conhecer um pouco sobre (HTML/CSS/JAVA/SQL) em um curso de Web Designer.
- Ao logo dos anos passei por diversas areas e hoje retornei ao que sempre fui apaixonada. 
- Compartilho aqui os meus projetos. 
+  Olá, eu sou Samantha 👋  
+Sou formada em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Ítalo Brasileiro.  
+
+Minha paixão por programação e tecnologia começou cedo — aos 14 anos, quando tive meu primeiro contato com HTML, CSS, Java e SQL em um curso de Web Designer. Desde então, sigo explorando esse universo incrível e ampliando meus conhecimentos.  
+
+Ao longo da minha trajetória, atuei em diferentes áreas que me proporcionaram desafios e conquistas. Entre eles, destaco projetos voltados para redução de custos e automação de processos, que trouxeram impactos reais para a empresa onde trabalhei.  
+
+Aqui no GitHub, compartilho meus projetos, aprendizados e ideias. 🚀  
 
 
-Foco:
+🔧 Tecnologias e interesses
+- Desenvolvimento Web (HTML, CSS, JavaScript, SQL)  
+- Automação de processos  
+- Soluções para otimização de custos  
+- Exploração de novas tecnologias e frameworks
+
+
 
 Hobbies: Ler, ouvir música, viajar e assistir Star wars
 
